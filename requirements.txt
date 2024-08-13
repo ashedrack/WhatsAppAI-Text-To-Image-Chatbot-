@@ -1,0 +1,17 @@
+fastapi==0.109.2
+uvicorn==0.27.0
+openai==0.28.0
+pyngrok==5.2.2
+requests==2.31.0
+python-dotenv==1.0.0
+
+
+
+
+
+# fastapi
+# uvicorn
+# openai
+# pyngrok
+# requests
+# dotenv
